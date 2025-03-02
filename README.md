@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Haroon Aslam! 👋
+🚀 Software Developer | 📊 AI & NLP Enthusiast | 🎯 Problem Solver
 
-<!--
-**HaroonAslamFast/HaroonAslamFast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I'm a passionate developer with experience in full-stack web development, AI, and NLP. I love building innovative solutions, whether it's a scalable web app, a deep learning model, or an automation tool. Always exploring new tech and open to collaboration!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Tech Stack
+Languages: JavaScript, Python, Java, Ruby
+Frameworks: React, Angular, Ruby on Rails, Flutter
+AI & NLP: TensorFlow, PyTorch, spaCy, Hugging Face
+Databases: PostgreSQL, MongoDB
+Cloud & DevOps: AWS, Docker 
+🌱 Currently Learning
+Advanced AI techniques in NLP
+Cloud computing & scalable architectures
+Mobile app development with Flutter
+💡 Let's Connect!
+📧 Email: haroonaslammahmood@gmail.com
+💼 LinkedIn: www.linkedin.com/in/haroonaslammahmood
